@@ -3,12 +3,13 @@ import { getFirestore } from "@firebase/firestore"
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBbVYnYUdYhgvUwDvxYk8IOtzIab_N6e04",
-  authDomain: "upload-files-19cb6.firebaseapp.com",
-  projectId: "upload-files-19cb6",
-  storageBucket: "upload-files-19cb6.appspot.com",
-  messagingSenderId: "866696124781",
-  appId: "1:866696124781:web:f320cc5c8d9cd4683de264"
+    apiKey: "AIzaSyCt3Xq3YrDwVLmHryu3s3jSggb-cV6LZCI",
+    authDomain: "videoportal-f7aa0.firebaseapp.com",
+    projectId: "videoportal-f7aa0",
+    storageBucket: "videoportal-f7aa0.appspot.com",
+    messagingSenderId: "607772889608",
+    appId: "1:607772889608:web:a77bea9240f4774b6137bd",
+    measurementId: "G-RR0XNHKCTE"
 };
 
 // Initialize Firebase
