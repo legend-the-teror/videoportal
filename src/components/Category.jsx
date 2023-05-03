@@ -60,7 +60,7 @@ const tabs = [
   {
     mainTab: "Scenario",
     subMenuTabs: [
-      { iconName: "Baby Sitter", path: "../category/babysitter", title: "Baby Sitter" },
+      { iconName: "Baby Sitter", path: "../category/babysitter", title: "BabySitter" },
       { iconName: "Massage", path: "../category/massage", title: "Massage" },
       { iconName: "Reality", path: "../category/reality", title: "Reality" },
       { iconName: "POV", path: "../category/pov", title: "POV" },
@@ -92,7 +92,7 @@ const tabs = [
     mainTab: "Age",
     subMenuTabs: [
       { iconName: "Mature", path: "../category/mature", title: "Mature" },
-      { iconName: "Teen (18+)", path: "../category/teen", title: "Teen (18+)" },
+      { iconName: "Teen (18+)", path: "../category/teen", title: "Teen(18+)" },
       { iconName: "Milf", path: "../category/milf", title: "Milf" },
       { iconName: "Old/Young", path: "../category/oldyoung", title: "Old/Young" },
     ],
