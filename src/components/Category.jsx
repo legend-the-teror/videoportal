@@ -42,22 +42,77 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 // ]
 const tabs = [
   {
-    mainTab: "Entertainment",
+    mainTab: "Countries",
     subMenuTabs: [
-      { iconName: "Games", path: "../category/games", title: "Games" },
-      { iconName: "Funny", path: "../category/funny", title: "Funny" },
-      { iconName: "Music", path: "../category/music", title: "Music" },
-      { iconName: "Movies", path: "../category/movies", title: "Movies" },
+      { iconName: "Indian", path: "../category/indian", title: "Indian" },
+      { iconName: "German", path: "../category/german", title: "German" },
+      { iconName: "French", path: "../category/french", title: "French" },
+      { iconName: "Arab", path: "../category/arab", title: "Arab" },
+      { iconName: "Japanese", path: "../category/japanese", title: "Japanese" },
+      { iconName: "Korean", path: "../category/korean", title: "Korean" },
+      { iconName: "Chinese", path: "../category/chinese", title: "Chinese" },
+      { iconName: "American", path: "../category/american", title: "American" },
+      { iconName: "Russian", path: "../category/russian", title: "Russian" },
+      { iconName: "Brazzillian", path: "../category/brazzillian", title: "Brazzillian" },
+      { iconName: "Thai", path: "../category/thai", title: "Thai" },
     ],
   },
   {
-    mainTab: "Nature",
+    mainTab: "Scenario",
     subMenuTabs: [
-      { iconName: "Animals", path: "../category/animals", title: "Animals" },
-      { iconName: "Nature", path: "../category/nature", title: "Nature" },
+      { iconName: "Baby Sitter", path: "../category/babysitter", title: "Baby Sitter" },
+      { iconName: "Massage", path: "../category/massage", title: "Massage" },
+      { iconName: "Reality", path: "../category/reality", title: "Reality" },
+      { iconName: "POV", path: "../category/pov", title: "POV" },
+      { iconName: "Romantic", path: "../category/romantic", title: "Romantic" },
+      { iconName: "Cosplay", path: "../category/cosplay", title: "Cosplay" },
+      { iconName: "Role Play", path: "../category/roleplay", title: "Role Play" },
     ],
   },
-  // add more main tabs here...
+  {
+    mainTab: "Partner's",
+    subMenuTabs: [
+      { iconName: "Threesome", path: "../category/threesome", title: "Threesome" },
+      { iconName: "Gangbang", path: "../category/gangbang", title: "Gangbang" },
+      { iconName: "Orgy", path: "../category/orgy", title: "Orgy" },
+      { iconName: "Solo Female", path: "../category/solofemale", title: "Solo Female" },
+      { iconName: "Solo Male", path: "../category/solomale", title: "Solo Male" },
+      { iconName: "Actions", path: "../category/actions", title: "Actions" },
+      { iconName: "Anal", path: "../category/anal", title: "Anal" },
+      { iconName: "Cream Pie", path: "../category/creampie", title: "Cream Pie" },
+    ],
+  },
+  {
+    mainTab: "Masterbation",
+    subMenuTabs: [
+      { iconName: "Masterbation", path: "../category/masterbation", title: "Masterbation" },
+    ],
+  },
+  {
+    mainTab: "Age",
+    subMenuTabs: [
+      { iconName: "Mature", path: "../category/mature", title: "Mature" },
+      { iconName: "Teen (18+)", path: "../category/teen", title: "Teen (18+)" },
+      { iconName: "Milf", path: "../category/milf", title: "Milf" },
+      { iconName: "Old/Young", path: "../category/oldyoung", title: "Old/Young" },
+    ],
+  },
+  {
+    mainTab: "Production",
+    subMenuTabs: [
+      { iconName: "Amateur", path: "../category/amateur", title: "Amateur" },
+      { iconName: "Cartoon", path: "../category/cartoon", title: "Cartoon" },
+      { iconName: "Compilation", path: "../category/compilation", title: "Compilation" },
+      { iconName: "Vintage", path: "../category/vintage", title: "Vintage" },
+      { iconName: "HD Porn", path: "../category/hdporn", title: "HD Porn" },
+    ],
+  },
+  {
+    mainTab: "Hentai",
+    subMenuTabs: [
+      { iconName: "Hentai", path: "../category/hentai", title: "Hentai" },
+    ],
+  },
 ];
 
 // function Category() {
