@@ -164,7 +164,7 @@ const handleMainTabLeave = () => {
 };
 
 return (
-  <Box sx={{display:'flex',flexDirection:{md:'row',xs:'column'}, gap:'20px'}}>
+  <Box style={{marginLeft: "20px"}} sx={{display:'flex',flexDirection:{md:'row',xs:'column'}, gap:'20px'}}>
     {tabs.map((tab, index) => (
       <>
         <Typography key={index} onMouseEnter={() => handleMainTabEnter(index)}
