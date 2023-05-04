@@ -255,12 +255,42 @@ function Create() {
                     label="Category"
                     onChange={handleChange}
                   >
-                    <MenuItem value={"Games"}>Games</MenuItem>
-                    <MenuItem value={"Funny"}>Funny</MenuItem>
-                    <MenuItem value={"Music"}>Music</MenuItem>
-                    <MenuItem value={"Movies"}>Movies</MenuItem>
-                    <MenuItem value={"Animals"}>Animals</MenuItem>
-                    <MenuItem value={"Nature"}>Nature</MenuItem>
+                    <MenuItem value={"indian"}>Indian</MenuItem>
+                    <MenuItem value={"german"}>German</MenuItem>
+                    <MenuItem value={"french"}>French</MenuItem>
+                    <MenuItem value={"arab"}>Arab</MenuItem>
+                    <MenuItem value={"japanese"}>Japanese</MenuItem>
+                    <MenuItem value={"korean"}>Korean</MenuItem>
+                    <MenuItem value={"chinese"}>Chinese</MenuItem>
+                    <MenuItem value={"american"}>American</MenuItem>
+                    <MenuItem value={"russian"}>Russian</MenuItem>
+                    <MenuItem value={"brazzilian"}>Brazzilian</MenuItem>
+                    <MenuItem value={"thai"}>Thai</MenuItem>
+                    <MenuItem value={"babysitter"}>Baby Sitter</MenuItem>
+                    <MenuItem value={"massage"}>Massage</MenuItem>
+                    <MenuItem value={"reality"}>Reality</MenuItem>
+                    <MenuItem value={"pov"}>POV</MenuItem>
+                    <MenuItem value={"romantic"}>Romantic</MenuItem>
+                    <MenuItem value={"cosplay"}>Cosplay</MenuItem>
+                    <MenuItem value={"roleplay"}>Role Play</MenuItem>
+                    <MenuItem value={"threesome"}>Threesome</MenuItem>
+                    <MenuItem value={"gangbang"}>Gangbang</MenuItem>
+                    <MenuItem value={"orgy"}>Orgy</MenuItem>
+                    <MenuItem value={"solofemale"}>Solo female</MenuItem>
+                    <MenuItem value={"solomale"}>Solo male</MenuItem>
+                    <MenuItem value={"actions"}>Actions</MenuItem>
+                    <MenuItem value={"anal"}>Anal</MenuItem>
+                    <MenuItem value={"creampie"}>Cream Pie</MenuItem>
+                    <MenuItem value={"masterbation"}>Masterbation</MenuItem>
+                    <MenuItem value={"mature"}>Mature</MenuItem>
+                    <MenuItem value={"milf"}>Milf</MenuItem>
+                    <MenuItem value={"oldyoung"}>Old/Young</MenuItem>
+                    <MenuItem value={"amateur"}>Amateur</MenuItem>
+                    <MenuItem value={"cartoon"}>Cartoon</MenuItem>
+                    <MenuItem value={"compilation"}>Compilation</MenuItem>
+                    <MenuItem value={"vintage"}>Vintage</MenuItem>
+                    <MenuItem value={"hdporn"}>HD Porn</MenuItem>
+                    <MenuItem value={"hentai"}>Hentai</MenuItem>
                   </Select>
                 </FormControl>
 
