@@ -361,7 +361,7 @@ const handleSearchKeyPress = async (event) => {
             <Category/>
           </Box>
           <Box sx={{flexGrow:1,justifyContent:'right',display:{md:'flex',xs:'none'}}}>
-          <Search sx={{marginRight:{xs:'30px'}}}>
+          <Search style={{maxWidth: "280px"}} sx={{marginRight:{xs:'30px'}}}>
             <SearchIconWrapper sx={{paddingLeft:{xs:'20px'}}}>
               <SearchIcon />
             </SearchIconWrapper>
