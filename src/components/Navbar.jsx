@@ -296,7 +296,7 @@ const handleSearchKeyPress = async (event) => {
           {/* <Link to='/'><img src={logo} width="150px" alt='logo' title='Home'/></Link> */}
             <Link to='/' style={{color:'inherit',textDecoration:'none'}}><p title='Home' style={{fontSize:'1.6rem',margin:'0px'}}>PornZilla</p></Link>
           </Box>
-          <Box style={{marginLeft: "20px"}} sx={{ display: { xs: 'flex', md: 'none' } }}>
+          <Box sx={{ display: { xs: 'flex', md: 'none' } }}>
             
             <IconButton 
               edge="end" 
