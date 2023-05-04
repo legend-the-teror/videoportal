@@ -24,7 +24,7 @@ function Copyright(props) {
     <Typography variant="body2" color="inherit" align="center" {...props}>
       {"Copyright © "}
       <Link style={{ textDecoration: "none", color: "#fff" }} to="/">
-        Your Website
+        PornZilla
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
